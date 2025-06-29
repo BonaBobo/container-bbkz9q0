@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "BonaBobo",
+  "repo": "container-bbkz9q0",
+  "name": "BonaBobo",
+  "email": "meskelo@hotmail.com",
+}
